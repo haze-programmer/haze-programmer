@@ -2,6 +2,8 @@
 
 Haze! I love computer science and programming. I am working on mastering Python, learning Rust, and most importantly, enjoying coding. I am from Palestine.
 
+NOTE: Haze is merely an online alias
+
 ## What I want to do in the future?
 
 I want to study computer science and become a software engineer. And I want to, most importantly, make something life changing one day :)
