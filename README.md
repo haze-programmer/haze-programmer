@@ -1,6 +1,6 @@
 ## Hello! I am...
 
-Haze! I love computer science and programming. I am working on mastering Python, learning Rust, and most importantly, enjoying coding.
+Haze! I love computer science and programming. I am working on mastering Python, learning Rust, and most importantly, enjoying coding. I am from Palestine.
 
 ## What I want to do in the future?
 
